@@ -18,5 +18,5 @@ FEATURES:
 
 Screenshot
 <div align="center">
-<img width="30%" alt="Screenshot_44" src="Picture.png">
+<img width="100%" alt="Screenshot_44" src="Picture.png">
 </div>
